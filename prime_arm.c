@@ -21,7 +21,3 @@ void perfect(int num) {
         printf("%d is perfect number", num);
     } 
 }
-
-void armstrong(int num) {
-    // complete this part
-}
